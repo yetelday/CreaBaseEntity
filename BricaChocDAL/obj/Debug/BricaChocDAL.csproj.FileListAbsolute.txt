@@ -1,0 +1,5 @@
+C:\Users\cdi01.03112-372\documents\visual studio 2015\Projects\BricaChocIHM\BricaChocDAL\bin\Debug\BricaChocDAL.dll
+C:\Users\cdi01.03112-372\documents\visual studio 2015\Projects\BricaChocIHM\BricaChocDAL\bin\Debug\BricaChocDAL.pdb
+C:\Users\cdi01.03112-372\documents\visual studio 2015\Projects\BricaChocIHM\BricaChocDAL\obj\Debug\BricaChocDAL.csprojResolveAssemblyReference.cache
+C:\Users\cdi01.03112-372\documents\visual studio 2015\Projects\BricaChocIHM\BricaChocDAL\obj\Debug\BricaChocDAL.dll
+C:\Users\cdi01.03112-372\documents\visual studio 2015\Projects\BricaChocIHM\BricaChocDAL\obj\Debug\BricaChocDAL.pdb
